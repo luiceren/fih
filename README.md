@@ -1,6 +1,7 @@
 # inky's ship tierlist 
 <div align="center">
-  ship tierlist cuz im bored and i wanna post stuff on here somehow pls lmk if theres an easier way to make posts on here..
+  <p>ship tierlist cuz im bored and i wanna post stuff on here somehow pls lmk if theres an easier way to make posts on here..</p>
+  <a href="https://github.com/luiceren" >go back</a>
 </div>
 
 <br>
@@ -16,5 +17,7 @@
 <br> 
 
 <div align="center">
- <p>if you wanna talk about to me this or have any questions/hcs ab some of the ships i like then drop a msg on my atabook or whisper me if u see me on pony town hehe.</p></p>
+ <p>if you wanna talk about to me this or have any questions/hcs ab some of the ships i like then drop a msg on my atabook or whisper me if u see me on pony town hehe.</p>
+  <a href="https://github.com/luiceren" >go back</a>
 </div>
+
